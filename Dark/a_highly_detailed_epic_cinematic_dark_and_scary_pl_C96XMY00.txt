@@ -1,0 +1,17 @@
+Prompt: a highly detailed epic cinematic dark and scary planet landscape with stations, borg, Horror, night, citylights,, interstellar, station, landscape, highly detailed artwork cinematic, hyper realistic, clear sky
+Negative Prompt: text, logo, astronaut
+Seed: 2728179721
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

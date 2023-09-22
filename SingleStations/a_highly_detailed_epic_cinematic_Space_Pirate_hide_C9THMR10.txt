@@ -1,0 +1,18 @@
+Prompt: a highly detailed epic cinematic Space Pirate hideout with cannons and weapons on a planet, High-Tech, Clean, modern, Space, interstellar, landscape, highly detailed artwork cinematic, hyper realistic,
+Negative Prompt: text, logo, Frame, Border
+Seed: 8201728
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

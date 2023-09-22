@@ -1,0 +1,18 @@
+Prompt: realistic cinematic Planet landscape, highly detailed artwork cinematic, hyper realistic, clear sky
+Negative Prompt: poor quality resolution, incoherent, poorly drawn, low quality, bad resolution, deformed, disfigured, disjointed, out of frame, duplicate, watermark, signature, text, ugly, morbid, mutated, deformed, blurry
+Seed: 3573916
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

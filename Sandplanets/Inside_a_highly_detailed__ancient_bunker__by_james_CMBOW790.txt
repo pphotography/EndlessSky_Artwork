@@ -1,0 +1,17 @@
+Prompt: Inside a highly detailed, ancient bunker, by james jean and peter mohrbacher, cinematic concept art,epic, Sci-Fi
+Negative Prompt: poor quality resolution, incoherent, poorly drawn, low quality, bad resolution, deformed, disfigured, disjointed, out of frame, duplicate, watermark, signature, text, ugly, morbid, mutated, deformed, blurry
+Seed: 353871470
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 4.6
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

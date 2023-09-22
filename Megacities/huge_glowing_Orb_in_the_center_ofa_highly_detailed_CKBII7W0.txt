@@ -1,0 +1,18 @@
+Prompt: huge glowing Orb in the center ofa highly detailed future city on a cinematic realistic planet landscape, Singularity, continuum, teal, interstellar, Space station, landscape, highly detailed cinematic, hyper realistic
+Negative Prompt: Text, Logo, planet in sky, astronaut, explorer, People
+Seed: 3634160281
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 4.6
+Prompt Strength: 0.49
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

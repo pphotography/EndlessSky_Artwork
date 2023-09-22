@@ -1,0 +1,18 @@
+Prompt: city with a gigantic epic statue in the center on a cinematic realistic planet, sci-fi, continuum, teal, interstellar, Space station, landscape, highly detailed cinematic, hyper realistic
+Negative Prompt: Text, Logo, planet in sky, astronaut, explorer, People
+Seed: 4368087
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

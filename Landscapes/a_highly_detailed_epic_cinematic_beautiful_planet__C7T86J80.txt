@@ -1,0 +1,17 @@
+Prompt: a highly detailed epic cinematic beautiful planet landscape in daylight, bright sky, nice sun, interstellar, landscape, highly detailed artwork cinematic, hyper realistic,
+Negative Prompt: text, logo, astronaut, people, animals
+Seed: 660789379
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

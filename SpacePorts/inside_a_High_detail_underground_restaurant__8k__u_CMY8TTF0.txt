@@ -1,0 +1,18 @@
+Prompt: inside a High detail underground restaurant, 8k, ultra detail
+Negative Prompt: poor quality resolution, incoherent, poorly drawn, low quality, bad resolution, deformed, disfigured, disjointed, out of frame, duplicate, watermark, signature, text, ugly, morbid, mutated, deformed, blurry
+Seed: 1918584392
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 70
+Guidance Scale: 4.6
+Prompt Strength: 0.61
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

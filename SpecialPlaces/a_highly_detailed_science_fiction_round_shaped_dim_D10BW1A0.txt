@@ -1,0 +1,19 @@
+Prompt: a highly detailed science fiction round shaped dimensional glowing gate on a cinematic realistic planet landscape with clear weather, modern, interstellar, landscape, stargate, highly detailed cinematic, hyper realistic
+Negative Prompt: Mountains, flying object, text, astronauts, people, car, low detail, blurry
+Seed: 2334790468
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: control_v11p_sd15_scribble
+ControlNet Filter: None
+VAE model: 
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 10.1
+Prompt Strength: 0.55
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

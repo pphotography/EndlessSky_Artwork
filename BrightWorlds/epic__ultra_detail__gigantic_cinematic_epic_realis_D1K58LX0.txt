@@ -1,0 +1,18 @@
+Prompt: epic, ultra detail, gigantic cinematic epic realistic Megacity with flat buildings on a planet landscape, teal ambient, modern, interstellar, landscape, highly detailed cinematic, hyper realistic
+Negative Prompt: Mountains, flying object, text, astronauts, people, car, low detail, blurry, low detail, comic, skyscraper
+Seed: 2949992008
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

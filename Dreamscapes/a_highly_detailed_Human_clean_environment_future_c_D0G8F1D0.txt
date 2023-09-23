@@ -1,0 +1,17 @@
+Prompt: a highly detailed Human clean environment future city on a cinematic realistic planet landscape with clear weather, modern, random ambient color, interstellar, Space station, landscape, highly detailed cinematic, hyper realistic
+Negative Prompt: 
+Seed: 2403269473
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: 
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 7.5
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

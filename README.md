@@ -6,7 +6,7 @@ Images are created using the Stable Diffusion text-to-image AI, in my case I use
  
 Planet images are in 720x360 resolution in PNG format. This makes it easier to modify certain images than JPG.
 
-To include images into the game I recommend to convert them to JPG for smaller file size. I compressed files from ~400k PNG to ~90k JPG with 92% JPG-quality and do not see any difference to the original PNG.
+To include images into the game I recommend to convert them to JPG for smaller file size. I compressed files from ~400k PNG to ~90k JPG with 92% JPG-quality.
  
 All images in this repository contain TXT sidecar files with the Stable Diffusion settings that were used to create the images. You can use this information to create similar images on your own (on the first images I made I did not enable the setting to create sidecar files so there are some missing)
   

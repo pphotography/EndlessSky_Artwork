@@ -1,0 +1,17 @@
+Prompt: a highly detailed epic cinematic hot planet industrial complex with landing pads, Cliffs, interstellar, landscape, highly detailed artwork cinematic, hyper realistic,
+Negative Prompt: text, logo, astronaut
+Seed: 733205612
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 7.5
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

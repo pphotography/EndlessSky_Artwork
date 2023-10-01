@@ -1,0 +1,17 @@
+Prompt: highly detailed 8k epic cinematic city in rain, interstellar, landscape, highly detailed artwork cinematic, hyper realisti
+Negative Prompt: frame, border, text, astronauts, people, car, low detail, blurry, simple, drawing, comic, skyscraper
+Seed: 2738640569
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 19.0
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

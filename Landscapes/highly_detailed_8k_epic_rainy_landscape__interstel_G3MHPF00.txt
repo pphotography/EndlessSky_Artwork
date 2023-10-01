@@ -1,0 +1,17 @@
+Prompt: highly detailed 8k epic rainy landscape, interstellar, landscape, highly detailed artwork cinematic, hyper realistic, sci-fi,
+Negative Prompt: frame, border, text, astronauts, people, car, low detail, blurry, simple, drawing, comic, skyscraper
+Seed: 4281144903
+Stable Diffusion model: sciFiDiffusionV10_v10
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: dpmpp_2s_a
+Width: 720
+Height: 360
+Steps: 40
+Guidance Scale: 19.0
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

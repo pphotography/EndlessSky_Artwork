@@ -1,7 +1,7 @@
 # EndlessSky_Artwork
 
 This repository contains artwork for Endless Sky. 
- 
+ ![icon](EndlesSky_Artwork.png)
 Images are created using the Stable Diffusion text-to-image AI, in my case I used the "EasyDiffuse" package with a one-click installer for beginners.
  
 Planet images are in 720x360 resolution in PNG format. This makes it easier to modify certain images than JPG.

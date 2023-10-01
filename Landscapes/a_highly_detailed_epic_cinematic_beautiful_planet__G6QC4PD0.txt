@@ -1,0 +1,17 @@
+Prompt: a highly detailed epic cinematic beautiful planet landscape with small mining station, interstellar, landscape, highly detailed artwork cinematic, hyper realistic,
+Negative Prompt: frame, border, text, astronauts, people, car, low detail, blurry, simple, drawing, comic, skyscraper, fire
+Seed: 3339195900
+Stable Diffusion model: sd-v1-5
+Clip Skip: True
+ControlNet model: None
+VAE model: 
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 19.0
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

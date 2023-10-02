@@ -1,0 +1,17 @@
+Prompt: a highly detailed epic cinematic bright interior of a spaceship, Space station, highly detailed cinematic, hyper realistic, view to space, ultra clear detailed, octane render, , ambient light, unreal engine, hyper detailed, photo - realistic maximum detail, volumetric light, moody cinematic epic concept art, realistic matte painting, hyper photorealistic, epic, trending on artstation, movie concept art, cinematic composition, ultra - detailed, realistic
+Negative Prompt: chair, sofa, border, frame, Text, Logo, planet in sky, astronaut, explorer, People, drawing, comic, low-res
+Seed: 361180818
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 25
+Guidance Scale: 19.0
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

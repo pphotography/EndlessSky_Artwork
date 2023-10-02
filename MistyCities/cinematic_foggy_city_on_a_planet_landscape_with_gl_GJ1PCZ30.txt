@@ -1,0 +1,18 @@
+Prompt: cinematic foggy city on a planet landscape with glowing electricity bolts and stripes, highly detailed cinematic, hyper realistic, wide angle shot, ultra clear detailed, ambient light, interstellar, hal, hyper detailed, realistic maximum detail,  light, moody cinematic epic concept art, hyper photorealistic, epic, trending on artstation, movie concept art, cinematic composition, ultra - detailed, realistic
+Negative Prompt: chair, sofa, border, frame, Text, Logo, astronaut, People, drawing, comic, low-res
+Seed: 4430318
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

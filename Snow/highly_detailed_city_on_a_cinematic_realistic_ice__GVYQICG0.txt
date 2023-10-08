@@ -1,0 +1,17 @@
+Prompt: highly detailed city on a cinematic realistic ice planet landscape, interstellar, window lights, city, landscape, highly detailed cinematic, hyper realistic
+Negative Prompt: cars, chair, sofa, border, frame, Text, Logo, planet in sky, astronaut, explorer, People
+Seed: 1088980451
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.4
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None

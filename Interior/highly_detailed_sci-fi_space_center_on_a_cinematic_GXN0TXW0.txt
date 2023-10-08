@@ -1,0 +1,18 @@
+Prompt: highly detailed sci-fi space center on a cinematic realistic frozen planet landscape, interstellar, window lights, clear sky, city, daylandscape, highly detailed cinematic, hyper realistic
+Negative Prompt: cars, chair, sofa, border, frame, Text, Logo, planet in sky, astronaut, explorer, People, snow
+Seed: 9775574
+Stable Diffusion model: sd-v1-5
+Clip Skip: False
+ControlNet model: None
+VAE model: vae-ft-mse-840000-ema-pruned
+Sampler: euler_a
+Width: 720
+Height: 360
+Steps: 50
+Guidance Scale: 7.5
+Prompt Strength: 0.7
+LoRA model: None
+Embedding models: None
+Seamless Tiling: None
+Use Face Correction: None
+Use Upscaling: None
